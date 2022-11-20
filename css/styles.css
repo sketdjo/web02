@@ -1,0 +1,143 @@
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Baskervville', serif;
+  color: #3C4048;
+
+}
+
+h3 {
+  font-family: 'Baskervville', serif;
+  color: #73777B;
+}
+
+p{
+  font-family: 'Fira Sans', sans-serif;
+
+}
+
+hr {
+      border: 7px dotted #EAF6F6;
+      border-style: none none dotted;
+      color: #fff;
+      background-color: #fff;
+      width: 10%;
+  }
+
+
+.h11 {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 3rem;
+  line-height: 4;
+}
+.h22{
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+.top-container {
+  background-color: #F4F4F2;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px
+
+}
+
+.middle-container {
+  margin-bottom: 100px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top:52px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top : 50px;
+}
+
+.bottom-container {
+  font-family: 'Fira Sans', sans-serif;
+  background-color: #F4F4F2;
+  padding: 20px;
+  margin-top: 50px;
+  text-decoration: none;
+}
+.footer-link{
+  text-decoration: none;
+}
+.skills {
+  position: relative;
+  margin-bottom: 200px;
+}
+
+.skill-row1 {
+ position: absolute;
+ left: 300px;
+}
+.skill-row2 {
+  position: absolute;
+  left: 525px;
+}
+.skill-row3 {
+  position: absolute;
+  right: 250px;
+}
+.skill-row4 {
+  position: absolute;
+  top:317px;
+  left: 290px;
+}
+.skill-row5 {
+  position: absolute;
+  top:300px;
+  left: 570px;
+
+}
+.skill-row6 {
+  position: absolute;
+  top:300px;
+  right: 260px;
+}
+
+.contact-me {
+  margin-top: 400px;
+}
+
+.btn {
+  background: #99b3c4;
+  background-image: -webkit-linear-gradient(top, #99b3c4, #4c7e9c);
+  background-image: -moz-linear-gradient(top, #99b3c4, #4c7e9c);
+  background-image: -ms-linear-gradient(top, #99b3c4, #4c7e9c);
+  background-image: -o-linear-gradient(top, #99b3c4, #4c7e9c);
+  background-image: linear-gradient(to bottom, #99b3c4, #4c7e9c);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7eccfc;
+  background-image: -webkit-linear-gradient(top, #7eccfc, #0a5180);
+  background-image: -moz-linear-gradient(top, #7eccfc, #0a5180);
+  background-image: -ms-linear-gradient(top, #7eccfc, #0a5180);
+  background-image: -o-linear-gradient(top, #7eccfc, #0a5180);
+  background-image: linear-gradient(to bottom, #7eccfc, #0a5180);
+  text-decoration: none;
+}
+
+.hrget {
+  position: absolute;
+  margin: 170px;
+  right: 375px;
+}
